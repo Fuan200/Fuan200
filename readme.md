@@ -1,7 +1,9 @@
-<!-- <p align="center"><picture align="center"><img align="center" src = "https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width = 200px></picture></p>  TO DO RASPBERRY TO CELESTE IMAGE -->
+<p align="center">
+  <img src="./ico.png"  alt="Celeste Icon">
+</p>
 <h1 align="center">Hi 👋, I'm Juan Díaz</h1>
 
-<h3 align="center">Programmer & Linux Geek</h3>
+<h3 align="center">Programmer, Linux Geek & Gamer</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/juan-diaz-fernandez/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
