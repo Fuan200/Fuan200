@@ -17,7 +17,7 @@ def my_skills():
         'OS': ['Debian', 'Kali Linux'],
         'programming_languages': ['Python', 'Bash', 'JavaScript', 'TypeScript'],
         'back_end': ['NestJS', 'FastAPI', 'Express'],
-        'front_end': ['Amgular', 'Angular', 'HTML', 'CSS'],
+        'front_end': ['Astro', 'Angular', 'HTML', 'CSS'],
         'databases': ['MySQL', 'PostgreSQL', 'MongoDB'],
         'containers': ['Docker', 'Podman'],
         'client_api': ['Bruno'],
