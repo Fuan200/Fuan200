@@ -4,6 +4,7 @@
 <h1 align="center">Hi 👋, I'm Juan Díaz</h1>
 
 <h3 align="center">Programmer, Linux Geek & Gamer</h3>
+<h4 align="center">Check out my website: 🌐 <a href="https://fuanito.me" target="_blank">fuanito.me</a></h4>
 <p align="center">
   <a href="https://www.linkedin.com/in/juan-diaz-fernandez/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
