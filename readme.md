@@ -7,9 +7,20 @@
 <h4 align="center" style="font-size: 1.12em;">Check out my website: 🐧 <a href="https://fuanito.me" target="_blank">fuanito.me</a></h4>
 <h4 align='center'> LinkedIn: 📚 💻 <a href="https://www.linkedin.com/in/juan-diaz-fernandez/" target="_blank">Juan Díaz</a></h4>
 
-## > About Me
 
-Passionate **Linux enthusiast** and **web developer**. I thrive in building robust backend systems while crafting efficient frontend interfaces. My toolkit includes:
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> About me</b>
+
+Passionate **Linux enthusiast** and **web developer**. I thrive in building robust backend systems while crafting efficient frontend interfaces. 
+
+```python
+def HelloWorld(str):
+    print(str)
+
+HelloWorld("print")
+```
+
+My toolkit includes:
 
 ```python
 def my_skills():
