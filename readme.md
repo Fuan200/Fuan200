@@ -31,7 +31,9 @@ def my_skills():
         'front_end': ['Astro', 'Angular', 'HTML', 'CSS'],
         'databases': ['MySQL', 'PostgreSQL', 'MongoDB'],
         'containers': ['Docker', 'Podman'],
-        'client_api': ['Bruno'],
+        'api_client': ['Bruno'],
+        'ci/cd': ['Github Actions'],
+        'cloud': ['Firebase, Azure'],
         'learning_now': ['Cloudflared', 'Rust']
     }
 ```
