@@ -13,13 +13,6 @@
 
 Passionate **Linux enthusiast** and **web developer**. I thrive in building robust backend systems while crafting efficient frontend interfaces. 
 
-```python
-def HelloWorld(str):
-    print(str)
-
-HelloWorld("print")
-```
-
 My toolkit includes:
 
 ```python
@@ -38,7 +31,12 @@ def my_skills():
     }
 ```
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<!-- def HelloWorld(str):
+    print(str)
+
+HelloWorld("print") -->
+
+<!-- ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 ![Debian](https://img.shields.io/badge/-Debian-000?&logo=debian)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -59,9 +57,14 @@ def my_skills():
 ![Podman](https://img.shields.io/badge/-Podman-000?&logo=Podman)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![Bruno](https://img.shields.io/badge/-Bruno-000?&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTI1NiA0OEMxNDEuNiA0OCA0OCAxNDEuNiA0OCAyNTZzOTMuNiAyMDggMjA4IDIwOCAyMDgtOTMuNiAyMDgtMjA4UzM3MC40IDQ4IDI1NiA0OHptLTM0LjcgMzA5LjljLTEwLjkgMTkuOC0zNy42IDI2LjktNTcuNCAxNi0xOS44LTEwLjktMjYuOS0zNy42LTE2LTU3LjQgMTAuOS0xOS44IDM3LjYtMjYuOSA1Ny40LTE2IDE5LjggMTAuOSAyNi45IDM3LjYgMTYgNTcuNHptOTMuMS0xMDEuOWwtNjAgMTE0LjRjLTEyLjEgMjIuOS00MS43IDMwLjktNjQuNiAxOC44LTIyLjktMTIuMS0zMC45LTQxLjctMTguOC02NC42bDYwLTExNC40YzEyLjEtMjIuOSA0MS43LTMwLjkgNjQuNi0xOC44IDIyLjkgMTIuMSAzMC45IDQxLjcgMTguOCA2NC42eiIvPjwvc3ZnPg==)
+![Bruno](https://img.shields.io/badge/-Bruno-000?&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTI1NiA0OEMxNDEuNiA0OCA0OCAxNDEuNiA0OCAyNTZzOTMuNiAyMDggMjA4IDIwOCAyMDgtOTMuNiAyMDgtMjA4UzM3MC40IDQ4IDI1NiA0OHptLTM0LjcgMzA5LjljLTEwLjkgMTkuOC0zNy42IDI2LjktNTcuNCAxNi0xOS44LTEwLjktMjYuOS0zNy42LTE2LTU3LjQgMTAuOS0xOS44IDM3LjYtMjYuOSA1Ny40LTE2IDE5LjggMTAuOSAyNi45IDM3LjYgMTYgNTcuNHptOTMuMS0xMDEuOWwtNjAgMTE0LjRjLTEyLjEgMjIuOS00MS43IDMwLjktNjQuNiAxOC44LTIyLjktMTIuMS0zMC45LTQxLjctMTguOC02NC42bDYwLTExNC40YzEyLjEtMjIuOSA0MS43LTMwLjkgNjQuNi0xOC44IDIyLjkgMTIuMSAzMC45IDQxLjcgMTguOCA2NC42eiIvPjwvc3ZnPg==) -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fuan200&theme=dark&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fuan200&theme=vue-dark&show_icons=true&count_private=true" />
 </p>
 
+<!-- ![Fuan200's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fuan200&theme=vue-dark&hide_border=true) -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuan200&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+</p>
