@@ -60,7 +60,7 @@ HelloWorld("print") -->
 ![Bruno](https://img.shields.io/badge/-Bruno-000?&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTI1NiA0OEMxNDEuNiA0OCA0OCAxNDEuNiA0OCAyNTZzOTMuNiAyMDggMjA4IDIwOCAyMDgtOTMuNiAyMDgtMjA4UzM3MC40IDQ4IDI1NiA0OHptLTM0LjcgMzA5LjljLTEwLjkgMTkuOC0zNy42IDI2LjktNTcuNCAxNi0xOS44LTEwLjktMjYuOS0zNy42LTE2LTU3LjQgMTAuOS0xOS44IDM3LjYtMjYuOSA1Ny40LTE2IDE5LjggMTAuOSAyNi45IDM3LjYgMTYgNTcuNHptOTMuMS0xMDEuOWwtNjAgMTE0LjRjLTEyLjEgMjIuOS00MS43IDMwLjktNjQuNiAxOC44LTIyLjktMTIuMS0zMC45LTQxLjctMTguOC02NC42bDYwLTExNC40YzEyLjEtMjIuOSA0MS43LTMwLjkgNjQuNi0xOC44IDIyLjkgMTIuMSAzMC45IDQxLjcgMTguOCA2NC42eiIvPjwvc3ZnPg==) -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fuan200&theme=vue-dark&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fuan200&theme=vue-dark&show_icons=true&count_private=true&hide_border=true" />
 </p>
 
 <!-- ![Fuan200's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fuan200&theme=vue-dark&hide_border=true) -->
