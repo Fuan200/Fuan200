@@ -38,12 +38,12 @@ def HelloWorld(str):
 HelloWorld("print")
 ```
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fuan200&theme=vue-dark&show_icons=true&count_private=true&hide_border=true" />
-</p>
+</p> -->
 
 <!-- ![Fuan200's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fuan200&theme=vue-dark&hide_border=true) -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuan200&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
-</p>
+</p> -->
