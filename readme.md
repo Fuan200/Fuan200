@@ -2,18 +2,23 @@
   <img src="./ico.png"  alt="Celeste Icon">
 </p>
 <h1 align="center">Hi 👋, I'm Juan Díaz</h1>
-
-<h3 align="center">Programmer, Linux Geek & Gamer</h3>
-<h4 align="center" style="font-size: 1.12em;">Check out my website: 🐧 <a href="https://fuanito.me" target="_blank">fuanito.me</a></h4>
-<h4 align='center'> LinkedIn: 📚 💻 <a href="https://www.linkedin.com/in/juan-diaz-fernandez/" target="_blank">Juan Díaz</a></h4>
+<h3 align="center">Linux-focused Developer &nbsp; • &nbsp; Backend Engineer &nbsp; • &nbsp; Gamer</h3>
+<p align="center">
+  🐧 <a href="https://fuanito.me" target="_blank">Website</a> &nbsp;&nbsp; • &nbsp;
+  📚 <a href="https://www.linkedin.com/in/juan-diaz-fernandez/" target="_blank">LinkedIn</a>
+</p>
 
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> About me</b>
 
-Passionate **Linux enthusiast** and **web developer**. I thrive in building robust backend systems while crafting efficient frontend interfaces. 
+Linux developer focused on building scalable backend systems and clean, maintainable architectures.
 
-My toolkit includes:
+I enjoy working close to the system — containerization, automation, APIs, and infrastructure — while still crafting efficient and structured frontend interfaces.
+
+I value simplicity, performance, and understanding how things actually work under the hood.
+
+## 🛠 Tech Stack
 
 ```python
 def my_skills():
@@ -26,7 +31,7 @@ def my_skills():
         'containers': ['Docker', 'Podman'],
         'api_client': ['Bruno'],
         'ci/cd': ['Github Actions'],
-        'cloud': ['Firebase, Azure'],
+        'cloud': ['Firebase', 'Azure'],
         'learning_now': ['Cloudflared', 'Rust', 'Kotlin']
     }
 ```
