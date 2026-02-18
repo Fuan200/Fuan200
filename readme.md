@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./ico.png"  alt="Celeste Icon">
+  <img src="./ico.png"  alt="Celeste Icon"  width="120">
 </p>
 <h1 align="center">Hi 👋, I'm Juan Díaz</h1>
 <h3 align="center">Linux-focused Developer &nbsp; • &nbsp; Backend Engineer &nbsp; • &nbsp; Gamer</h3>
